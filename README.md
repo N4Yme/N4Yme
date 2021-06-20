@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello there 👋
+**I hope you find what you're looking for ...**
 
-<!--
-**N4Yme/N4Yme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ | Projects
 
-Here are some ideas to get you started:
+**🔴 | BlockStubeNET**\
+BlockStube was a German Minecraft Server.\
+The Head-Owner [VocalZero](https://github.com/VocalZero) created a Server with a complete new playing experience.\
+I was the Design guy KEKW.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\
+**🟡| KIOP**\
+KIOP is an upcoming iOS App to find new friends.\
+We want to create a place for young people to connect.
+
+
+## ❗ | INFOS
+**🔴 = Closed or Quit**\
+**🟡 = In Development**\
+**🟢 = On Market**
