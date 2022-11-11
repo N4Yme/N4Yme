@@ -13,18 +13,12 @@ I was the Design guy KEKW.
 Stay up to date in the music industry with WorldsPlaylist through our partially self-contained system, which provides the top 50 or top 100 songs on a monthly and weekly basis. The songs are decided by a community voting on our site.
 
 \
-**🟡 | SECRET PROJECT**\
-A tool for Nurses and Patients to communicate easier.
-(More infos soon)
-
-\
 **🟢 | Ausbildungsnachweisheft**\
-Ein Tools für Azubis die ihr Ausbildungsnachweisheft digital erstellen können.
-Ist halt derzeit Windows Only, aber haste denn pech gehabt :P
-Aktuell nur Privat, da noch nicht ganz fertig.
+A tool for trainees who can create their training record book digitally.
+Currently Windows only! Not Public!
 
 
 ## ❗ | INFOS
-**🔴 = Closed or Quit**\
-**🟡 = In Development**\
-**🟢 = Launched**
+**🔴 = Closed / Quit**\
+**🟡 = In Development / Working on**\
+**🟢 = Launched / Done**
