@@ -9,13 +9,18 @@ The Head-Owner [VocalZero](https://github.com/VocalZero) created a Server with a
 I was the Design guy KEKW.
 
 \
-**🟡 | WorldsPlaylist**\
+**🔴 | WorldsPlaylist**\
 Stay up to date in the music industry with WorldsPlaylist through our partially self-contained system, which provides the top 50 or top 100 songs on a monthly and weekly basis. The songs are decided by a community voting on our site.
 
 \
 **🟢 | Ausbildungsnachweisheft**\
 A tool for trainees who can create their training record book digitally.
 Currently Windows only! Not Public!
+
+\
+**🟢 | Linklip [BETA]**\
+On Linklip you can create your own link collection and much more.
+(Currently in beta testing)
 
 
 ## ❗ | INFOS
