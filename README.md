@@ -1,29 +1,13 @@
 ## Hello there 👋
 **I hope you find what you're looking for ...**
 
-## 🛠️ | Projects
-
-**🔴 | BlockStubeNET**\
-BlockStube was a German Minecraft Server.\
-The Head-Owner [VocalZero](https://github.com/VocalZero) created a Server with a complete new playing experience.\
-I was the Design guy KEKW.
+## 🛠️ | Current Projects
+\
+**🥡 | Nutracker**\
+A free simple and modern nutrition tracking app.
+More details soon... ;D
 
 \
-**🔴 | WorldsPlaylist**\
-Stay up to date in the music industry with WorldsPlaylist through our partially self-contained system, which provides the top 50 or top 100 songs on a monthly and weekly basis. The songs are decided by a community voting on our site.
-
-\
-**🟢 | Ausbildungsnachweisheft**\
-A tool for trainees who can create their training record book digitally.
-Currently Windows only! Not Public!
-
-\
-**🟢 | Linklip [BETA]**\
-On Linklip you can create your own link collection and much more.
-(Currently in beta testing)
-
-
-## ❗ | INFOS
-**🔴 = Closed / Quit**\
-**🟡 = In Development / Working on**\
-**🟢 = Launched / Done**
+**🎵 | AtomicRadio**\
+Head-Editor of the space "Fightclub".
+The future of radio is here. Experience 12 Spaces with non-stop music you'll love. https://atomic.radio/
